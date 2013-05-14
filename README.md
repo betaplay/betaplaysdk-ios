@@ -1,0 +1,4 @@
+betaplaysdk-ios
+===============
+
+BetaplaySDK-iOS
